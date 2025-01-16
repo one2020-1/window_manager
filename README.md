@@ -60,4 +60,3 @@ python window_manager.py
 ## 界面
 ![image](https://github.com/user-attachments/assets/54a2fbfa-79e9-4726-9581-814b6fff3079)
 
-
