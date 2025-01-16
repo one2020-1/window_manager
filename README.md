@@ -56,7 +56,3 @@ python window_manager.py
 - 程序会保持在桌面最上层，方便随时调用
 - 支持通过鼠标拖拽调整工具窗口位置和大小
 - 提供窗口刷新功能，确保列表始终最新
-
-## 界面
-![image](https://github.com/user-attachments/assets/54a2fbfa-79e9-4726-9581-814b6fff3079)
-
