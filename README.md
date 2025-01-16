@@ -1,6 +1,7 @@
 # Windows窗口管理工具
 
 一个基于PyQt6开发的Windows窗口管理工具，提供直观的图形界面和便捷的窗口布局功能。
+![image](https://github.com/user-attachments/assets/99b49315-5664-45d6-9ffc-6e956406cbca)
 
 ## 功能特点
 
